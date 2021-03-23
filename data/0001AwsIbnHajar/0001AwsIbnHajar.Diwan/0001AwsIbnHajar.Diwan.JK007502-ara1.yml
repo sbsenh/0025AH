@@ -3,12 +3,8 @@
 00#VERS#URI######: 0001AwsIbnHajar.Diwan.JK007502-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#LINKS####: https://archive.org/details/waq50991/50991/page/n119/mode/2up
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: unclear whether complete, order of poems is scrambled compared to edition; introduction notes explicitly that there are no manuscripts for this diwan and that it is a reconstruction; 
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: RECONSTRUCTED_TEXT
